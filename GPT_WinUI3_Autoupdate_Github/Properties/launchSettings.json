@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GPT_WinUI3_Autoupdate_Github (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GPT_WinUI3_Autoupdate_Github (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
